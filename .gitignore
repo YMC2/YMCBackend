@@ -1,0 +1,12 @@
+
+.idea/aws.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/YMCBackend.iml
+ymcbackend/gradle/wrapper/gradle-wrapper.properties
+ymcbackend/gradlew
+ymcbackend/gradlew.bat
+ymcbackend/gradle/wrapper/gradle-wrapper.jar
+ymcbackend/src/main/resources/application.yml
+ymcbackend/gradle/wrapper/gradle-wrapper.jar
